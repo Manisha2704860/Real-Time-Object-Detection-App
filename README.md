@@ -54,17 +54,14 @@ I built this project to make object detection accessible in a simple web interfa
 # Installation :
 1. Clone the repository
 
-       git clone https://github.com/your-username/streamlit-yolo-detection.git
-       cd streamlit-yolo-detection
-2. Create a virtual environment (recommended)
+       git clone https://github.com/Manisha2704860/Real-Time-Object-Detection-App.git
+       cd realtime-object-detection
 
-       python -m venv venv
-       source venv/bin/activate   # for Linux/Mac
-       venv\Scripts\activate      # for Windows
-3. Install dependencies
+
+2. Install dependencies
 
        pip install streamlit streamlit-webrtc ultralytics opencv-python-headless numpy av
-4. Run the app
+3. Run the app
 
        streamlit run app.py
 # Required Libraries and Why
